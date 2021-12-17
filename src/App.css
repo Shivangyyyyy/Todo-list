@@ -1,0 +1,31 @@
+.App {
+    background:url("https://www.svgbackgrounds.com/wp-content/uploads/2021/05/subtle-prism-triangle-pattern.jpg");
+    
+    color:"#fca903";
+    background-size : cover;
+    height: 100%;
+    width: 100%;
+    font-size: 3em;
+  position:absolute;
+    text-align: center;
+   
+  }
+
+.div_two{
+  min-height:80vh;
+  min-width:80vh;
+}
+
+.input_box{
+  /* margin-top: 1%; */
+  margin-Bottom: 10px;
+  color:rgb(17, 15, 15) ;
+  border-radius: 12px;
+  /* border-style: outset; */
+  height:40px;
+  padding: 4px;
+  font-size: 20px;
+  margin:2%;
+  width: 40%;
+  background-color: rgb(134, 219, 22);
+}
